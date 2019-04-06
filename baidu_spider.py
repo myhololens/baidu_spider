@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # spider_cat.py
-# @author 钱弘毅
+# @author 三杯猫
 # @description 利用关键词爬取百度图片
 # @created Sat Apr 06 2019 18:16:25 GMT+0800 (中国标准时间)
 # @last-modified Sat Apr 06 2019 18:19:59 GMT+0800 (中国标准时间)
